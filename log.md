@@ -4,5 +4,5 @@
 
 **Today's Progress**: Created my first CLi
 
-**Thoughts:** Really interested in how a CLI works. Allowed me to expand my javascript knowledge
+**Thoughts:** Really interested in how a CLI works. I was following a tutorial by Traversy Media. The tutorial was a little outdated and the mongoDb functions he was using were depreciated so I had some debugging to do. 
 
